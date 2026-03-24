@@ -15,7 +15,7 @@
 ## 技术实现
 
 - **Python版本**：使用OpenCV、MediaPipe和PyAutoGUI库
-- **C++版本**：使用OpenCV、MediaPipe和Windows API
+- **C++版本（并不稳定）**：使用OpenCV、MediaPipe和Windows API
 
 ## 安装要求
 
